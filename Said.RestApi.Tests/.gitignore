@@ -99,6 +99,8 @@ ClientBin/
 
 *.publishsettings
 
+*.slnx.sqlite
+
 # RIA/Silverlight projects
 Generated_Code/
 
